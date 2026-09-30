@@ -1,3 +1,0 @@
-tuic://tuic-pass@example.com:443?congestion_control=bbr#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
-tuic://token@example.com:443#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
-tuic://00000000-0000-4000-8000-000000000003:tuic-pass@example.com:443?network=tcp&congestion_control=bbr&udp_over_stream=1&zero_rtt_handshake=1&heartbeat=10s&sni=tuic.example.com&alpn=h3,hq#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
