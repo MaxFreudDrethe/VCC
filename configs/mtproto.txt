@@ -1,1 +1,0 @@
-tg://proxy?server=185.x.x.x&port=5000&secret=dd1234567890abcdef
