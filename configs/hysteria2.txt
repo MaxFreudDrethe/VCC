@@ -1,3 +1,1 @@
-hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443?insecure=1&obfs=salamander&obfs-password=HysteriaHowdy&sni=t.me#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
-hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
-hysteria2://633bc3be486b646190661ac2387c150a@152.67.115.203:443?insecure=1&obfs=salamander&obfs-password=850a3fb1cd33a28f12d837578ae1a2e7&sni=www.bing.com#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
+hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443?insecure=1&obfs=salamander&obfs-password=HysteriaHowdy&sni=sni-here.com#%F0%94%92%B0%E2%80%8E%20%EF%BC%B3%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%B2%EF%BC%AF
