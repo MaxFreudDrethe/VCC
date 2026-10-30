@@ -1,2 +1,0 @@
-tg://proxy?server=your.domain.com&port=443&secret=ee
-tg://proxy?server=172.17.0.2&port=1443&secret=dd68f127db1d
