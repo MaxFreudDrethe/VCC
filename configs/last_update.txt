@@ -1,4 +1,4 @@
-2026-11-01T08:49:28.319226+00:00
-repos_scanned=29
-heavy_configs_total=20850
-lite_total=176
+2026-11-01T10:30:08.385498+00:00
+repos_scanned=30
+heavy_configs_total=5386
+lite_total=123
